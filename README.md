@@ -12,7 +12,7 @@ This is a project between 3 great minds to patch together a fun experience :
 
 ## Can I contribute ?
 
-Of course you can ! The radio is supported by an external IceCast2 server (That you can see here https://radio.letonet.fr:3000).
+Of course you can ! The radio is supported by an external IceCast2 server (That you can see here https://radio.letonet.fr:8000).
 As long as you know how to shape a website, please do not hesitate to drop your grain of salt !
 
 ## I just merged, why isn't it showing ?
