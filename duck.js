@@ -59,7 +59,7 @@ ap.on('play', async function () {
             {
                 name: 'duck radio',
                 artist: 'duckr',
-                url: 'https://radio.letonet.fr:8000/duck-radio',
+                url: 'https://icecast.letonet.fr/duck-radio',
                 cover: 'img/duck.png',
                 theme: '#ebe857',
                 lrc: '[00:00.00]With your host: theduckr'
